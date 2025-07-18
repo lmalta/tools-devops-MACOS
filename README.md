@@ -13,7 +13,7 @@ Ce repo Mémorise les commandes d'installe deinstalle d'outil DevOps pour MAC
 | 📦 DevOps Tools| [Install Jenkins.sh](https://github.com/lmalta/tools-devops-MACOS/blob/main/Install%20Jenkins.sh) |  Jenkins | 
 | 📦 DevOps Tools| [Changement Context Kubernetes .sh](https://github.com/lmalta/tools-devops-MACOS/blob/main/Changement%20Context%20Kubernetes%20.sh) | Changement Context Kubernetes | 
 | 📦 DevOps Tools| [Install Composer.sh](https://github.com/lmalta/tools-devops-MACOS/blob/main/Install%20Composer.sh) |  Composer | 
-| 📦 DevOps Tools| [Install K9s.sh](https://github.com/lmalta/tools-devops-MACOS/blob/main/Install%20K9s.sh) |  K9s | 
+| 📦 DevOps Tools| [Install K9s.sh](https://github.com/lmalta/tools-devops-MACOS/blob/main/Install%20K9s.sh) |  interface en terminal pour gérer Kubernetes | 
 | 📦 DevOps Tools| [INstall-AWS-Eksctl.sh ](https://github.com/lmalta/tools-devops-MACOS/blob/main/INstall-AWS-Eksctl.sh ) |  AWS CLI and EKSCTL | 
 | 📦 DevOps Tools| [Install LocalStack.sh](https://github.com/lmalta/tools-devops-MACOS/blob/main/Install%20LocalStack.sh) |  LocalStack | 
 | 🧰 Outils de développement & CLI| [Install Githut cli.sh](https://github.com/lmalta/tools-devops-MACOS/blob/main/Install%20Githut%20cli.sh) |  Githut cli | 
